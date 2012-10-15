@@ -49,6 +49,4 @@ $().ready(function(){
 
 
 
-	//amazon.prepend('<img src="http://chart.apis.google.com/chart?cht=qr&chs=200x200&chl=' + url + '" style="position:absolute">');
-
 });
