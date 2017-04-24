@@ -1,5 +1,5 @@
 # Unsubscribe from Bulk Emails in Gmail
-[Gmail Unsubscribe](https://www.labnol.org/internet/gmail-unsubscribe/28806/) is an open source [Google Script](https://ctrlq.org/code/19959-gmail-unsubscribe) to help you easily unsubscribe your email address from unwanted newsletters and other bulk emails in Gmail. Apply the label *unsubscribe* to any email thread and the sender will be unsubscribed automatically. 
+[Gmail Unsubscribe](https://www.labnol.org/internet/gmail-unsubscribe/28806/) is an open source [Google Script](https://ctrlq.org/code/19959-gmail-unsubscribe) to help you easily unsubscribe your email address from unwanted newsletters and other bulk emails in Gmail. **Use [this guide](https://www.labnol.org/internet/gmail-unsubscribe/28806/) for configuration.**
 
 ![Google Sheet - Digest of Unsubscribed Emails](https://img.labnol.org/di/gmail-unsubscribe-mails.png "Gmail Unsubscribe stores logs in your Google Sheet")
 
