@@ -8,4 +8,4 @@ Unroll.me, a free online web app, also lets you
 unsubscribe from junk emails in Gmail with one click. This Google Script is open source and, unlike Unroll.me, it neither collects any of your email messages nor does it sell your data to Uber.
 
 ### Gmail Unsubscribe Author
-Written by [Amit Agarwal](https://ctrlq.org). Follow me on [@twitter](https://twitter.com/labnol).
+Written by [Amit Agarwal](https://ctrlq.org) for [Digital Inspiration](https://digitalinspiration.com). Follow me on [@twitter](https://twitter.com/labnol).
