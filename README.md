@@ -16,4 +16,4 @@ The Gmail Unsubscriber script is developed by [Digital Inspiration](https://digi
 3. [Gmail Archiver](https://chrome.google.com/webstore/detail/save-emails-and-attachmen/nflmnfjphdbeagnilbihcodcophecebc) - Download and automatically backup your Gmail messages and attachments to Google Drive.
 
 ### Gmail Unsubscribe Author
-Written by [Amit Agarwal](https://ctrlq.org). I am Google Developers Export for GSuite and Google Apps Script. Follow me on [@twitter](https://twitter.com/labnol).
+Written by [Amit Agarwal](https://ctrlq.org). I am Google Developers Expert for GSuite and Google Apps Script. Follow me on [@twitter](https://twitter.com/labnol).
