@@ -19,4 +19,4 @@ function main() {
 
     thread.removeLabel(label);
   });
-}
+}x
