@@ -1,8 +1,8 @@
-![Google Sheet - Digest of Unsubscribed Emails](https://img.labnol.org/di/gmail-unsubscribe-mails.png 'Gmail Unsubscribe stores logs in your Google Sheet')
+![Google Sheet - Digest of Unsubscribed Emails](image.png 'Gmail Unsubscribe stores logs in your Google Sheet')
 
 # Unsubscribe from Bulk Emails in Gmail
 
-[Gmail Unsubscribe](https://www.labnol.org/internet/gmail-unsubscribe/28806/) is an open source [Google Script](https://www.labnol.org/code/19959-gmail-unsubscribe) to help you easily unsubscribe your email address from unwanted newsletters and other bulk emails in Gmail. Follow this **[step-by-step guide](https://www.labnol.org/internet/gmail-unsubscribe/28806/)** for configuration.
+[Gmail Unsubscribe](https://www.labnol.org/internet/gmail-unsubscribe/28806/) is an open-source [Google Script](https://www.labnol.org/code/19959-gmail-unsubscribe) to help you easily unsubscribe your email address from unwanted newsletters and other bulk emails in Gmail. Follow this **[step-by-step guide](https://www.labnol.org/internet/gmail-unsubscribe/28806/)** for configuration.
 
 [Email Studio for Gmail](https://emailstudio.pro) is a suite of tools that help you do more with Gmail. It includes Mail Merge, Email Scheduler, Unsubscriber, [Email Purge](https://www.labnol.org/internet/gmail-auto-purge/27605/) and more.
 
