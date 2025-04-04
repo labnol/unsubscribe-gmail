@@ -1,4 +1,4 @@
-**This tool won the ProductHunt Golden Kitty award**
+** 🏆 This Gmail tool won the ProductHunt Golden Kitty award 🏆 **
 
 ![Google Sheet - Digest of Unsubscribed Emails](image.png 'Gmail Unsubscribe stores logs in your Google Sheet')
 
